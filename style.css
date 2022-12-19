@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+   
+}
+
+header{  
+    /* margin: 5%; */
+}
+
+select{
+    /* margin-left: 5%; */
+    padding: 2px;
+    font-size: larger;
+
+    
+}
+
+#filterbtn{
+    color: black;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.card{
+    border: 2px solid white;
+    width: 50%;
+    padding: 5px;
+    margin:15px;
+    
+    
+}
+
+
+
+
